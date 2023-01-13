@@ -1,0 +1,11 @@
+{
+  "name": "wordtopdf",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "formidable": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/formidable": "^2.0.5"
+  }
+}
